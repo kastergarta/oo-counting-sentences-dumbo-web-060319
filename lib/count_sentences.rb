@@ -6,7 +6,7 @@ class String
 self.end_with?(".")
   end
 
-  def self.question?
+  def question?
 self.end_with?("?")
   end
 
